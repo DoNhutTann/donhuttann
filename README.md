@@ -10,6 +10,5 @@
 <p align="center">
       
 &nbsp; <a href="http://github.com/DoNhutTann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="[https://www.facebook.com/HungChannels.TV](https://www.facebook.com/donhuttan.dv/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="donhuttandv@outlook.com.vn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="[https://www.facebook.com/HungChannels.TV](https://www.facebook.com/donhuttan.dv/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a></a>
 </p>
