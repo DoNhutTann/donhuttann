@@ -8,10 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungchannels123&text_color=daf7dc&bg_color=151515)
 # 🤝🏻 Connect with Me
 <p align="center">
-  
-&nbsp; <a href="https://www.instagram.com/hungchannels" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="tiktok.com/@hungchannels" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
-&nbsp; <a href="http://github.com/hungchannels123" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/HungChannels.TV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:HungChannels.TV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+      
+&nbsp; <a href="http://github.com/DoNhutTann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="[https://www.facebook.com/HungChannels.TV](https://www.facebook.com/donhuttan.dv/)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="donhuttandv@outlook.com.vn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
